@@ -1,4 +1,4 @@
-package com.honeycombtrial.game;
+package com.honeycomb.trial;
 
 import com.getcapacitor.BridgeActivity;
 

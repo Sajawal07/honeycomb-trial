@@ -24,7 +24,7 @@ src/game/
   ui/game.css              interface styling
 tests/simulation.test.ts   headless simulation tests (Node)
 tests/e2e.browser.mjs      browser E2E test (Playwright, headless Chromium)
-capacitor.config.json      appId com.honeycombtrial.game, webDir dist
+capacitor.config.json      appId com.honeycomb.trial, webDir dist
 android/                   generated Capacitor Android project (portrait, dark bars)
 ```
 
