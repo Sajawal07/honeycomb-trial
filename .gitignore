@@ -4,6 +4,14 @@ node_modules/
 # Build output
 dist/
 
+# APK / AAB release artifacts — distribute separately, not in git
+*.apk
+*.aab
+
+# Large source images
+public/app-icon-full.png
+public/icon-512.png
+
 # Vite cache
 .vite/
 
