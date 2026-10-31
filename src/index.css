@@ -1,0 +1,6 @@
+/* Global base. Game styles live in src/game/ui/game.css */
+html,
+body {
+  margin: 0;
+  background: #120f0d;
+}
